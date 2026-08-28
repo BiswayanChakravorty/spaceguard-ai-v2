@@ -1,0 +1,8 @@
+server-py/venv/
+server-py/.venv/
+__pycache__/
+*.py[cod]
+*.bsp
+.env
+.pytest_cache/
+.coverage

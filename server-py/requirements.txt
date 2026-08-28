@@ -1,0 +1,8 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+skyfield==1.49
+requests==2.32.3
+numpy==2.2.1
+pytest==8.3.4
+
+# Test-only dependency; pytest is included so the required offline test runs from a fresh environment.
